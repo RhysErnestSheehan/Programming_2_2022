@@ -1,4 +1,4 @@
-"""Rhys Sheehan CP1404 Prac 02 Password Starts"""
+"""Rhys Sheehan CP1404 Prac 02 Password Stars"""
 
 
 def main():
