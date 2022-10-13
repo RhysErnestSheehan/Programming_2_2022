@@ -22,8 +22,9 @@ def get_data():
         print(parts)  # See what the parts look like (notice the integer is a string)
         parts[2] = int(parts[2])  # Make the number an integer (ignore PyCharm's warning)
         print(parts)  # See if that worked
-        print("----------")
+        data.append(parts)
     input_file.close()
+    return data
 
 
 main()
